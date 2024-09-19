@@ -1,0 +1,35 @@
+body{
+    background-color: #D4E1EF;
+    font-family: "Outfit", sans-serif;
+}
+
+.container{
+    background-color: white;
+    width: 20%;
+    margin-left: 35rem;
+    margin-top: 13rem;
+    padding: 1rem;
+    border-radius: 10%;
+  
+}
+
+.container__img{
+    border-radius: 10%;
+    
+}
+
+.container__section__first-para{
+    text-align: center;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-weight: bold;
+}
+
+.container__section__second-para{
+    text-align: center;
+    font-weight: lighter;
+    margin: .5rem;
+    
+}
+
